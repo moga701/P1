@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(255, 255, 255);
+    background-image: url(https://th.bing.com/th/id/OIP.fEhE6lqhrgeC7a35pr66JQHaEK?pid=ImgDet&rs=1);
+    opacity: 0.9;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+h1{
+    color: black;
+    background-color: lightblue;
+    margin-bottom: 20 px;
+    margin-top: 10px;
+    padding-top: 20 px ;
+    padding-left: 40 px;
+    border: 5 px solid black;
+    width: auto;
+    height: auto;
+}
+
+p{
+    border: 5px red solid;
+    margin: 10px 10px ; 
+
+}
+
